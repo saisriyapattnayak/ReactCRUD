@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "empName": "Saisriya",
+      "empSalary": "2300000",
+      "empCompany": "TCS",
+      "id": "43a7"
+    },
+    {
+      "id": "cfb8",
+      "empName": "Pritam",
+      "empSalary": "30000",
+      "empCompany": "IBM"
+    },
+    {
+      "empName": "Saisriya",
+      "empSalary": "34000",
+      "empCompany": "FNH",
+      "id": "7cb8"
+    },
+    {
+      "empName": "Subhash pattnayak",
+      "empSalary": "25000",
+      "empCompany": "Data",
+      "id": "7f33"
+    }
+  ]
+}
